@@ -116,8 +116,12 @@ graph TD
 *Task management interface with Daily/Weekly assignments.*
 ![Quests Screenshot](assets/quests.png)
 
+### 4. Infrastructure & DevOps
+*Live production environment on Intel i5-12500. Evidence of stable Docker container orchestration (Uptime > 7 days).*
+![Docker Infrastructure](assets/docker_infrastructure.png)
+
 ---
 
 ## 📬 Contact
-Created by **[Your Name]**.
+Created by **Oskar Pikuła https://www.linkedin.com/in/oskar-pikula/**.
 *Open to opportunities in Backend (Python/Django) & Full-Stack Development.*
